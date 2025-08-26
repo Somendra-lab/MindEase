@@ -1,0 +1,4 @@
+DB_HOST=localhost
+DB_USER=root
+DB_PASSWORD=Tech-4@2028
+DB_NAME=mindease
